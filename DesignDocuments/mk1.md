@@ -7,7 +7,7 @@ A web-based RPG hosting service that allows for creating and managing personal a
 
 Technical
 ---------
-PHP-based (Laravel) web stack with Lua for scenario scripting.
+PHP-based (Laravel) web stack with Lua for scenario scripting. Currently uses MySQL.
 
 Description
 -----------
@@ -15,11 +15,13 @@ Textgame is an online service for Role-Playing Game hosting, with mainly textual
 
 Target audience
 ---------------
-RPG players, game masters, mainly in US and Russian Federation
+RPG players, game masters, mainly in English and Russian speaking countries.
 
 Locale
 ------
-English, Russian, maybe others
+* English
+* Russian
+* maybe others
 
 Competitors
 -----------
